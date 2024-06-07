@@ -1,3 +1,3 @@
-# test-repo-1
+# Testing repository
 
-2024
+This is a testing repository
